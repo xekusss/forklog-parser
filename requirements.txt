@@ -6,7 +6,6 @@ certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==2.0.12
 colorama==0.4.5
-cryptography==4.0.2
 decorator==5.1.1
 Faker==14.2.1
 feedparser==6.0.10
