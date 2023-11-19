@@ -1,37 +1,37 @@
 APScheduler==3.6.3
-backports.zoneinfo    0.2.1
-beautifulsoup4        4.12.2
-cachetools            4.2.2
-certifi               2023.7.22
-cffi                  1.15.1
-charset-normalizer    2.0.12
-colorama              0.4.5
-cryptography          4.0.2
-decorator             5.1.1
-Faker                 14.2.1
-feedparser            6.0.10
-idna                  3.4
-importlib-resources   5.4.0
-Jinja2                3.0.3
-langdetect            1.0.9
-MarkupSafe            2.0.1
-pip                   21.3.1
-pycparser             2.21
-pyspellchecker        0.7.2
-python-dateutil       2.8.2
-python-telegram-bot   12.8
-pytz                  2023.3.post1
-pytz-deprecation-shim 0.1.0.post0
-redmail               0.6.0
-requests              2.27.1
-setuptools            28.8.0
-sgmllib3k             1.0.0
-six                   1.16.0
-soupsieve             2.3.2.post1
-tornado               6.1
-typing_extensions     4.1.1
-tzdata                2023.3
-tzlocal               4.2
-urllib3               1.26.16
-zipp                  3.6.0
+backports.zoneinfo==0.2.1
+beautifulsoup4==4.12.2
+cachetools==4.2.2
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==2.0.12
+colorama==0.4.5
+cryptography==4.0.2
+decorator==5.1.1
+Faker==14.2.1
+feedparser==6.0.10
+idna==3.4
+importlib-resources==5.4.0
+Jinja2==3.0.3
+langdetect==1.0.9
+MarkupSafe==2.0.1
+pip==21.3.1
+pycparser==2.21
+pyspellchecker==0.7.2
+python-dateutil==2.8.2
+python-telegram-bot==12.8
+pytz==2023.3.post1
+pytz-deprecation-shim==0.1.0.post0
+redmail==0.6.0
+requests==2.27.1
+setuptools==28.8.0
+sgmllib3k==1.0.0
+six==1.16.0
+soupsieve==2.3.2.post1
+tornado==6.1
+typing_extensions==4.1.1
+tzdata==2023.3
+tzlocal==4.2
+urllib3==1.26.16
+zipp==3.6.0
 python==3.10.11
