@@ -33,4 +33,4 @@ tzdata==2023.3
 tzlocal==4.2
 urllib3==1.26.16
 zipp==3.6.0
-python==3.10.11
+python==3.11
