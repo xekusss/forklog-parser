@@ -70,9 +70,9 @@ def parse_and_send_images_with_text(url, bot_token, channel_username, sent_file_
         print(f"Ошибка {response.status_code}. Не удалось получить страницу.")
 
 if __name__ == "__main__":
-    url_to_parse = "https://forklog.com/"
-    telegram_bot_token = "6653090046:AAFGkXVixvHmtzljz9_6ERfgeQ1lZnA4Mek"
-    channel_username = "@cryptonewssss9999"  # Замените на ваше имя канала
+    url_to_parse = "Название сайта"
+    telegram_bot_token = "токен вашего бота(Bot Father)"
+    channel_username = "имя канала"  # Замените на ваше имя канала
     sent_file_path = "sent_news.txt"
 
     while True:
